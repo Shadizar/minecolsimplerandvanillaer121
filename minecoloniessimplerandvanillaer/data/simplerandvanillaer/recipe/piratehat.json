@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "H": {
+      "item": "minecraft:rabbit_hiteme"
+    }
+  },
+  "pattern": [
+    " B ",
+    "BBB",
+    "HHH"
+  ],
+  "result": {
+    "id": "minecolonies:pirate_hat",
+	"count": 1
+  },
+  "show_notification": false
+}

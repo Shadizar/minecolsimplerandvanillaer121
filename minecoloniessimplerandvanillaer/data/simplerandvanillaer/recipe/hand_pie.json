@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:wheat"
+    },
+    "X": {
+      "item": "minecraft:mutton"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PXP",
+    "PPP"
+  ],
+  "result": {
+    "id": "minecolonies:hand_pie"
+  },
+  "show_notification": false
+}

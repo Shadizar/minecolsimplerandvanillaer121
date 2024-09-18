@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "X": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XPX",
+    "XXX"
+  ],
+  "result": {
+    "id": "minecolonies:chorus_bread",
+	"count": 4
+  },
+  "show_notification": false
+}

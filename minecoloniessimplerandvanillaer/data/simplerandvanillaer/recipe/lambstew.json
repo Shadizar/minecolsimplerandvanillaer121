@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "M": {
+      "item": "minecraft:mutton"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+    "P P",
+    "CMC",
+    " B "
+  ],
+  "result": {
+    "id": "minecolonies:lamb_stew",
+	"count": 1
+  },
+  "show_notification": false
+}

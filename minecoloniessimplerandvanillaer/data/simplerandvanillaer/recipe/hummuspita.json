@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:beetroot"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "  R",
+    "RSR",
+    "WWW"
+  ],
+  "result": {
+    "id": "minecolonies:pita_hummus",
+	"count": 1
+  },
+  "show_notification": false
+}

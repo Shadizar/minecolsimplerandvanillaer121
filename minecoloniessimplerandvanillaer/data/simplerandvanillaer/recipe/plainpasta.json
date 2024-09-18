@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    " W ",
+    "WSW",
+    " B "
+  ],
+  "result": {
+    "id": "minecolonies:pasta_plain",
+	"count": 1
+  },
+  "show_notification": false
+}

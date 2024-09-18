@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecolonies:large_soy_milk_bottle"
+    },
+    "X": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XPX",
+    "XXX"
+  ],
+  "result": {
+    "id": "minecolonies:milky_bread",
+	"count": 4
+  },
+  "show_notification": false
+}

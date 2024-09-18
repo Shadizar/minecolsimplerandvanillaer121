@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "X": {
+      "item": "minecraft:beetroot"
+    }
+  },
+  "pattern": [
+    "X  ",
+    " P ",
+    "P X"
+  ],
+  "result": {
+    "id": "minecolonies:tomato",
+	"count": 4
+  },
+  "show_notification": true
+}

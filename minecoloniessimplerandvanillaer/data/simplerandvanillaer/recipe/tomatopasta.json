@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:beetroot"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "RWR",
+    "W W",
+    " B "
+  ],
+  "result": {
+    "id": "minecolonies:pasta_tomato",
+	"count": 1
+  },
+  "show_notification": false
+}

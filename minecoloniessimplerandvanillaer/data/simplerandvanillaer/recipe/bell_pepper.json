@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:beetroot"
+    },
+    "X": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "   ",
+    "PX ",
+    "   "
+  ],
+  "result": {
+    "id": "minecolonies:bell_pepper",
+	"count": 2
+  },
+  "show_notification": true
+}

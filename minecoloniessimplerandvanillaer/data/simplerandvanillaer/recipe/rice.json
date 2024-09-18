@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:wheat"
+    },
+    "X": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "pattern": [
+    "X  ",
+    " P ",
+    "P X"
+  ],
+  "result": {
+    "id": "minecolonies:rice",
+	"count": 4
+  },
+  "show_notification": true
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "I I",
+    "III",
+    "I I"
+  ],
+  "result": {
+    "id": "minecolonies:gate_iron",
+	"count": 1
+  },
+  "show_notification": false
+}

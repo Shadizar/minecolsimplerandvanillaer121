@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "T": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+    "SWS",
+    "WSW",
+    " T "
+  ],
+  "result": {
+    "id": "minecolonies:cooked_rice",
+	"count": 1
+  },
+  "show_notification": false
+}

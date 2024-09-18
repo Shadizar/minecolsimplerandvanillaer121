@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "W": {
+      "item": "minecraft:writable_book"
+    },
+    "S": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "E": {
+      "item": "minecraft:end_rod"
+    }
+  },
+  "pattern": [
+    " N ",
+    "EWE",
+    " S "
+  ],
+  "result": {
+    "id": "minecolonies:ancienttome",
+	"count": 1
+  },
+  "show_notification": false
+}

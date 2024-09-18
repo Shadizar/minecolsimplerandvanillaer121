@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:carrot"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "B": {
+      "item": "minecraft:beetroot"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "RPB",
+    " BP",
+    "WWW"
+  ],
+  "result": {
+    "id": "minecolonies:stuffed_pita",
+	"count": 1
+  },
+  "show_notification": false
+}

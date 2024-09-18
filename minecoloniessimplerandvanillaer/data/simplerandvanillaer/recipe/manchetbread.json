@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "SWW",
+    "WSW",
+    "WSW"
+  ],
+  "result": {
+    "id": "minecolonies:manchet_bread",
+	"count": 1
+  },
+  "show_notification": false
+}

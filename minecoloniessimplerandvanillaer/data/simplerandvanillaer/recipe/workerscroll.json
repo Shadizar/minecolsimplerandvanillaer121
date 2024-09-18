@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "X": {
+      "item": "minecolonies:scroll_tp"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "XXX",
+    "LLL"
+  ],
+  "result": {
+    "id": "minecolonies:scroll_highlight",
+	"count": 4
+  },
+  "show_notification": false
+}

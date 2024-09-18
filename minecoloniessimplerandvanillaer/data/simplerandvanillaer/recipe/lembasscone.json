@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "SSW",
+    " SW"
+  ],
+  "result": {
+    "id": "minecolonies:lembas_scone",
+	"count": 1
+  },
+  "show_notification": false
+}

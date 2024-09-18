@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    " X ",
+    "   ",
+    " X "
+  ],
+  "result": {
+    "id": "minecolonies:durum",
+	"count": 2
+  },
+  "show_notification": true
+}

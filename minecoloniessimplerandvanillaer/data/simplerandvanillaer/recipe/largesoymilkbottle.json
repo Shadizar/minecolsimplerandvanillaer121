@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:glass_bottle"
+    },
+    "X": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "pattern": [
+    "X X",
+    " B ",
+    "X X"
+  ],
+  "result": {
+    "id": "minecolonies:large_soy_milk_bottle",
+	"count": 1
+  },
+  "show_notification": true
+}

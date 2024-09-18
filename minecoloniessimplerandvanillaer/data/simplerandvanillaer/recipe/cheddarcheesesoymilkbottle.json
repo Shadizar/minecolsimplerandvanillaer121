@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "minecolonies:large_soy_milk_bottle"
+    }
+  },
+  "pattern": [
+    " L ",
+    "   ",
+    "L  "
+  ],
+  "result": {
+    "id": "minecolonies:cheddar_cheese",
+	"count": 3
+  },
+  "show_notification": true
+}

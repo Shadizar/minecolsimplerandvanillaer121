@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "T": {
+      "item": "minecraft:beetroot"
+    },
+    "R": {
+      "item": "minecraft:carrot"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "TRT",
+    "PTP",
+    "TWP"
+  ],
+  "result": {
+    "id": "minecolonies:eggplant_dolma",
+	"count": 1
+  },
+  "show_notification": false
+}

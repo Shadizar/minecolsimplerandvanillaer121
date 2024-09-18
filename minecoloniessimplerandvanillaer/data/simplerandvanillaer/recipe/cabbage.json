@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "X": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "   ",
+    "PX ",
+    "   "
+  ],
+  "result": {
+    "id": "minecolonies:cabbage",
+	"count": 2
+  },
+  "show_notification": true
+}

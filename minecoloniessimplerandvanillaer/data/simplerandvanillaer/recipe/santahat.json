@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:red_wool"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "D": {
+      "item": "minecraft:white_dye"
+    },
+    "H": {
+      "item": "minecraft:rabbit_hide"
+    }
+  },
+  "pattern": [
+    " W ",
+    "RRR",
+    "DH "
+  ],
+  "result": {
+    "id": "minecolonies:santa_hat",
+	"count": 1
+  },
+  "show_notification": false
+}

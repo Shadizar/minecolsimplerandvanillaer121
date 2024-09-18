@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "B": {
+      "item": "minecraft:beetroot"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "T": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+    "SWS",
+    "BPB",
+    "BTP"
+  ],
+  "result": {
+    "id": "minecolonies:congee",
+	"count": 1
+  },
+  "show_notification": false
+}

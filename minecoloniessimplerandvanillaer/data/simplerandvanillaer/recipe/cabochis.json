@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "T": {
+      "item": "minecraft:beetroot"
+    },
+    "R": {
+      "item": "minecraft:bread"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+    " R ",
+    "PTP",
+    "TBP"
+  ],
+  "result": {
+    "id": "minecolonies:cabochis",
+	"count": 1
+  },
+  "show_notification": false
+}

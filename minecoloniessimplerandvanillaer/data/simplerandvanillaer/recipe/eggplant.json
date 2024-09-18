@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "X": {
+      "item": "minecraft:beetroot"
+    }
+  },
+  "pattern": [
+    "   ",
+    "P  ",
+    "  X"
+  ],
+  "result": {
+    "id": "minecolonies:eggplant",
+	"count": 2
+  },
+  "show_notification": true
+}
