@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "pattern": [
+    "PPP",
+    " X ",
+    "X X"
+  ],
+  "result": {
+    "id": "minecraft:bell",
+	"count": 1
+  },
+  "show_notification": false
+}
