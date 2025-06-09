@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:diamond_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "H": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "pattern": [
+    "H H",
+    " N ",
+    " BH"
+  ],
+  "result": {
+    "id": "minecolonies:pirate_chest",
+	"count": 1
+  },
+  "show_notification": false
+}

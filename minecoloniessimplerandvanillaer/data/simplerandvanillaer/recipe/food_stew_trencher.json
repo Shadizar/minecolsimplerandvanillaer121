@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:bread"
+    },
+   "c": {
+      "item": "minecraft:carrot"
+    },
+    "p": {
+      "item": "minecolonies:tomato"
+    },
+    "w": {
+      "item": "minecraft:beef"
+    }
+  },
+  "pattern": [
+"pc ",
+" pw",
+"  b"
+],
+  "result": {
+    "id": "minecolonies:stew_trencher",
+	"count": 2
+  },
+  "show_notification": false
+}

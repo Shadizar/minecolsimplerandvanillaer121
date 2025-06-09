@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+" ww",
+" w ",
+"ww "
+],
+  "result": {
+    "id": "minecolonies:lembas_scone",
+	"count": 3
+  },
+  "show_notification": false
+}

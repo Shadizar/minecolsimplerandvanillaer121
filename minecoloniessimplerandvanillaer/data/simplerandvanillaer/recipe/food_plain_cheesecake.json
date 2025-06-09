@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+   "c": {
+      "item": "minecraft:egg"
+    },
+    "p": {
+      "item": "minecraft:sugar"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+"www",
+" p ",
+"cc "
+],
+  "result": {
+    "id": "minecolonies:plain_cheesecake",
+	"count": 3
+  },
+  "show_notification": false
+}

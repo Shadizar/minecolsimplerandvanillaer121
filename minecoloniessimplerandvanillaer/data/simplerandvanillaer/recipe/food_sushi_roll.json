@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+   "c": {
+      "item": "minecraft:dried_kelp"
+    },
+    "p": {
+      "item": "minecraft:salmon"
+    },
+    "w": {
+      "item": "minecolonies:cooked_rice"
+    }
+  },
+  "pattern": [
+"p c",
+"   ",
+"ww "
+],
+  "result": {
+    "id": "minecolonies:sushi_roll",
+	"count": 3
+  },
+  "show_notification": false
+}

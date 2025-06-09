@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "p": {
+      "item": "minecraft:potato"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+"  w",
+"  w",
+"p p"
+],
+  "result": {
+    "id": "minecolonies:manchet_dough",
+	"count": 2
+  },
+  "show_notification": true
+}

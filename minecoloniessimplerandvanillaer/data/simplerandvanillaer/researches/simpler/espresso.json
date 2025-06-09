@@ -1,0 +1,18 @@
+{
+  "branch": "simplerandvanillaer:simpler",
+  "effects": [
+      {
+        "id": "minecolonies:effects/sleeplessmultiplier",
+		"level": 1
+     }
+    ],
+  "name": "Espresso",
+  "researchLevel": 1,
+  "subtitle": "UnNerf: Makes the cost of nonsleepy guards reasonable instead of tier 2, gated after barracks research, and golden carrots",
+  "costs": [
+    {
+      "tag": "minecraft:beds",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecolonies:garlic"
+    },
+   "c": {
+      "item": "minecolonies:tomato"
+    },
+    "p": {
+      "item": "minecolonies:bell_pepper"
+    },
+    "w": {
+      "item": "minecolonies:cooked_rice"
+    }
+  },
+  "pattern": [
+"b c",
+"ww ",
+" p "
+],
+  "result": {
+    "id": "minecolonies:stuffed_pepper",
+	"count": 2
+  },
+  "show_notification": false
+}

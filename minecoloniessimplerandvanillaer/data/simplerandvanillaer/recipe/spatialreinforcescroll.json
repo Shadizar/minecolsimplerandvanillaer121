@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "X": {
+      "item": "minecolonies:scroll_tp"
+    }
+  },
+  "pattern": [
+    "EL ",
+    "LXL",
+    "LPL"
+  ],
+  "result": {
+    "id": "minecolonies:scroll_guard_help",
+	"count": 2
+  },
+  "show_notification": false
+}

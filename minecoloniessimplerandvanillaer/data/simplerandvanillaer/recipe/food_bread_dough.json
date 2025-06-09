@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+"ww ",
+" w ",
+"   "
+],
+  "result": {
+    "id": "minecolonies:bread_dough",
+	"count": 2
+  },
+  "show_notification": true
+}

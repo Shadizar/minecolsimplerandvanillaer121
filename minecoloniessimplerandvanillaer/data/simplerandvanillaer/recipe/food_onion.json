@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:beetroot"
+    },
+    "p": {
+      "item": "minecraft:potato"
+    }
+  },
+  "pattern": [
+" pp",
+"   ",
+"  b"
+],
+  "result": {
+    "id": "minecolonies:onion",
+	"count": 3
+  },
+  "show_notification": true
+}

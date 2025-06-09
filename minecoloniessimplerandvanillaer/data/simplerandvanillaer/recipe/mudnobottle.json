@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "pattern": [
+    " X ",
+    " XX",
+    " X "
+  ],
+  "result": {
+    "id": "minecraft:mud",
+	"count": 4
+  },
+  "show_notification": true
+}

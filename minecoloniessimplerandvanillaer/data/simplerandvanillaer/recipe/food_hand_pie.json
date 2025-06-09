@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:mutton"
+    },
+    "p": {
+      "item": "minecraft:potato"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+"wbw",
+" w ",
+"wpw"
+],
+  "result": {
+    "id": "minecolonies:hand_pie",
+	"count": 2
+  },
+  "show_notification": false
+}

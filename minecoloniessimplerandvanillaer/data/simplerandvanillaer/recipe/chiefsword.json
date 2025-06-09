@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_sword"
+    },
+    "S": {
+      "item": "minecraft:shulker_shell"
+    },
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "pattern": [
+    " S ",
+    "GNG",
+    " S "
+  ],
+  "result": {
+    "id": "minecolonies:chiefsword",
+	"count": 1
+  },
+  "show_notification": false
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "X": {
+      "item": "minecraft:compass"
+    }
+  },
+  "pattern": [
+    " E ",
+    "PXP",
+    " P "
+  ],
+  "result": {
+    "id": "minecolonies:scroll_tp",
+	"count": 3
+  },
+  "show_notification": false
+}

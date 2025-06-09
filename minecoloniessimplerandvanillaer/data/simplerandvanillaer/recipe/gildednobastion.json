@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "minecraft:blackstone"
+    },
+    "N": {
+      "item": "minecraft:ancient_debris"
+    }
+  },
+  "pattern": [
+    "GBG",
+    "BNB",
+    "BGB"
+  ],
+  "result": {
+    "id": "minecraft:gilded_blackstone",
+	"count": 4
+  },
+  "show_notification": false
+}
