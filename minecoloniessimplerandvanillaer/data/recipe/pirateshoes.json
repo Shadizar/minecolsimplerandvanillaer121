@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:diamond_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "H": {
+      "item": "minecraft:brown_wool"
+    }
+  },
+  "pattern": [
+    "   ",
+    "HNH",
+    "HBH"
+  ],
+  "result": {
+    "id": "minecolonies:pirate_shoes",
+	"count": 1
+  },
+  "show_notification": false
+}

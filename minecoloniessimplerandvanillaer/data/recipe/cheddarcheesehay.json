@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "minecraft:hay_block"
+    }
+  },
+  "pattern": [
+    " L ",
+    "   ",
+    "L  "
+  ],
+  "result": {
+    "id": "minecolonies:cheddar_cheese",
+	"count": 3
+  },
+  "show_notification": true
+}

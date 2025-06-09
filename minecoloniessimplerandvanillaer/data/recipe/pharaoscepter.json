@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "G": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    " GI",
+    " N ",
+    "I  "
+  ],
+  "result": {
+    "id": "minecolonies:pharaoscepter",
+	"count": 1
+  },
+  "show_notification": false
+}

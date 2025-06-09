@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:cod"
+    },
+   "c": {
+      "item": "minecraft:carrot"
+    },
+    "p": {
+      "item": "minecraft:potato"
+    }
+  },
+  "pattern": [
+"b b",
+"ppc",
+"   "
+],
+  "result": {
+    "id": "minecolonies:fish_dinner",
+	"count": 2
+  },
+  "show_notification": false
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecolonies:scroll_tp"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "   ",
+    "PEP",
+    " P "
+  ],
+  "result": {
+    "id": "minecolonies:scroll_area_tp",
+	"count": 1
+  },
+  "show_notification": false
+}

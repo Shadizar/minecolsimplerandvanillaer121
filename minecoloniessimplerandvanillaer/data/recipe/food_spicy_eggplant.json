@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecolonies:eggplant"
+    },
+   "c": {
+      "item": "minecolonies:onion"
+    },
+    "p": {
+      "item": "minecolonies:nether_pepper"
+    },
+    "w": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+"bb ",
+"cpp",
+"  w"
+],
+  "result": {
+    "id": "minecolonies:spicy_eggplant",
+	"count": 2
+  },
+  "show_notification": false
+}

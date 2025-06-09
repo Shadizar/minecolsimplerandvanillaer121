@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecolonies:onion"
+    },
+   "c": {
+      "item": "minecolonies:garlic"
+    },
+    "p": {
+      "item": "minecolonies:eggplant"
+    },
+    "w": {
+      "item": "minecolonies:flatbread"
+    }
+  },
+  "pattern": [
+"cc ",
+" pb",
+" w "
+],
+  "result": {
+    "id": "minecolonies:pita_hummus",
+	"count": 2
+  },
+  "show_notification": false
+}

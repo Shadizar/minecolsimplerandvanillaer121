@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:milk_bucket"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+"www",
+"wbw",
+"www"
+],
+  "result": {
+    "id": "minecolonies:milky_bread",
+	"count": 4
+  },
+  "show_notification": false
+}

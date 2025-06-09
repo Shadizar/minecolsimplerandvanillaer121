@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+   "c": {
+      "item": "minecraft:cocoa_beans"
+    },
+     "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+"ww ",
+" c ",
+"   "
+],
+  "result": {
+    "id": "minecolonies:cookie_dough",
+	"count": 8
+  },
+  "show_notification": true
+}

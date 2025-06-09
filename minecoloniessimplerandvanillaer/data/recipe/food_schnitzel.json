@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+   "c": {
+      "item": "minecraft:carrot"
+    },
+    "p": {
+      "item": "minecraft:porkchop"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+"ww ",
+"cc ",
+"p  "
+],
+  "result": {
+    "id": "minecolonies:schnitzel",
+	"count": 2
+  },
+  "show_notification": false
+}

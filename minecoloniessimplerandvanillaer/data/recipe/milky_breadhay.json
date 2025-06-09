@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:hay_block"
+    },
+    "X": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XPX",
+    "XXX"
+  ],
+  "result": {
+    "id": "minecolonies:milky_bread",
+	"count": 4
+  },
+  "show_notification": false
+}

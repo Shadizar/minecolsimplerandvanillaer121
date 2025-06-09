@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:sweet_berries"
+    },
+    "P": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    " R ",
+    "PPP",
+    "WWW"
+  ],
+  "result": {
+    "id": "minecolonies:muffin",
+	"count": 2
+  },
+  "show_notification": false
+}

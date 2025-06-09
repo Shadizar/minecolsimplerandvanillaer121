@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:glass_bottle"
+    },
+    "X": {
+      "item": "minecolonies:mistletoe"
+    }
+  },
+  "pattern": [
+    "   ",
+    "XPX",
+    "   "
+  ],
+  "result": {
+    "id": "minecolonies:magicpotion",
+	"count": 1
+  },
+  "show_notification": false
+}

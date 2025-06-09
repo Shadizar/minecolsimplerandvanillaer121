@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:beetroot"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+"  w",
+" w ",
+" wb"
+],
+  "result": {
+    "id": "minecolonies:nether_pepper",
+	"count": 4
+  },
+  "show_notification": true
+}

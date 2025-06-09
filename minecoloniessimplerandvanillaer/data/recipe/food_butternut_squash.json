@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:beetroot"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+"  w",
+" ww",
+" bb"
+],
+  "result": {
+    "id": "minecolonies:butternut_squash",
+	"count": 4
+  },
+  "show_notification": true
+}
