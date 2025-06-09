@@ -1,0 +1,12 @@
+{
+"replace": false,
+"values": [
+    "minecraft:mud",
+	"minecolonies:bell_pepper",
+	"minecolonies:cabbage",
+	"minecolonies:rice",
+	"minecolonies:chickpea",
+	"minecolonies:durum",
+	"minecolonies:soybean"
+	]
+}
