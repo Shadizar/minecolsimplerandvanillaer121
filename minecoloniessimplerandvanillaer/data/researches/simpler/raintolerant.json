@@ -1,0 +1,18 @@
+{
+  "branch": "simplerandvanillaer:simpler",
+  "effects": [
+      {
+        "id": "minecolonies:effects/workinginrainunlock",
+		"level": 1
+     }
+    ],
+  "name": "Barely a Drizzle",
+  "researchLevel": 1,
+  "subtitle": "Colonists work in rain like they should at start. No config change needed!",
+  "costs": [
+    {
+      "tag": "minecraft:boats",
+      "quantity": 1
+    }
+  ]
+}
