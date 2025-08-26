@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "B": {
-      "item": "minecraft:diamond_block"
+      "item": "minecraft:iron_ingot"
     },
     "M": {
       "item": "minecraft:magenta_wool"
@@ -12,7 +12,7 @@
     }
   },
   "pattern": [
-    "HMH",
+    "BMB",
     "H M",
     "MBH"
   ],

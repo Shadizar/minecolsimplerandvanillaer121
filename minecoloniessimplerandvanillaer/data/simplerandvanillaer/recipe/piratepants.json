@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "B": {
-      "item": "minecraft:diamond_block"
+      "item": "minecraft:iron_block"
     },
     "M": {
       "item": "minecraft:magenta_wool"
     },
     "N": {
-      "item": "minecraft:netherite_ingot"
+      "item": "minecraft:iron_ingot"
     },
     "H": {
       "item": "minecraft:red_wool"

@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "B": {
-      "item": "minecraft:diamond_block"
+      "item": "minecraft:iron_block"
     },
     "H": {
       "item": "minecraft:black_wool"

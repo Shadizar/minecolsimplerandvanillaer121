@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "N": {
-      "item": "minecraft:netherite_ingot"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
